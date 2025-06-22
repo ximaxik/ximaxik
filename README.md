@@ -1,13 +1,7 @@
 <!-- Dark flower GIF at the top -->
 <p align="center">
-  <img src="https://pixabay.com/gifs/flower-nature-black-bloom-3342/" width="200" style="border: 3px solid #000; border-radius: 12px;" alt="dark flower gif" />
+  <img src="https://cdn.pixabay.com/animation/2022/11/17/14/32/14-32-45-897_512.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" alt="dark flower gif" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=000000&width=435&lines=welcome+to+my+dark+side;just+wandering+through+the+shadows..." alt="Typing SVG" />
-</h1>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
