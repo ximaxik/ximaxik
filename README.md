@@ -1,7 +1,7 @@
-<!-- Replacing GIF with static image from Pinterest -->
+<!-- Custom image from Pinterest -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9c/9d/35/9c9d357e5833ac95fe71be4bcac6fd92.jpg" width="200" 
-       style="border: 3px solid #000; border-radius: 12px;" alt="dark flower photo" />
+  <img src="https://i.pinimg.com/736x/8e/35/31/8e3531f2b185d1f8fc48d75fddcfcb12.jpg" width="220"
+       style="border: 3px solid #000; border-radius: 12px;" alt="purple dark art" />
 </p>
 
 <h1 align="center">
