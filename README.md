@@ -10,7 +10,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
+  <img src="https://images7.alphacoders.com/853/85376.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
+</p>
+
 </p>
 
 ---
