@@ -1,6 +1,6 @@
-<!-- Gradient background (black flower gif) -->
+<!-- Dark flower GIF at the top -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ae/25/38/ae253874c7a731d8282dfcf3706f763e.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" />
+  <img src="https://images7.alphacoders.com/853/85376.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" />
 </p>
 
 <h1 align="center">
