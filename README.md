@@ -1,4 +1,4 @@
-<!-- Gradient background -->
+<!-- Девочка-кошка -->
 <p align="center">
   <img src="https://media.giphy.com/media/f0vPpNJrPR4xO/giphy.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" />
 </p>
@@ -9,10 +9,9 @@
 
 ---
 
+<!-- Чёрный цветок -->
 <p align="center">
   <img src="https://images7.alphacoders.com/853/85376.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
-</p>
-
 </p>
 
 ---
@@ -37,5 +36,5 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ximaxik&show_icons=true&theme=tok
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ximaxik&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
