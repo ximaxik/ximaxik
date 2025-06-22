@@ -1,6 +1,6 @@
-<!-- Девочка-кошка -->
+<!-- Gradient background (black flower gif) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f0vPpNJrPR4xO/giphy.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" />
+  <img src="https://i.pinimg.com/originals/ae/25/38/ae253874c7a731d8282dfcf3706f763e.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" />
 </p>
 
 <h1 align="center">
@@ -9,9 +9,8 @@
 
 ---
 
-<!-- Чёрный цветок -->
 <p align="center">
-  <img src="https://images7.alphacoders.com/853/85376.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
 </p>
 
 ---
