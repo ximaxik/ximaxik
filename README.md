@@ -1,6 +1,6 @@
-<!-- Чёрный цветок (вверху) -->
+<!-- Dark flower GIF at the top -->
 <p align="center">
-  <img src="https://pixabay.com/gifs/3342/" width="200" style="border: 3px solid #000; border-radius: 12px;" alt="dark flower gif" />
+  <img src="https://pixabay.com/gifs/flower-nature-black-bloom-3342/" width="200" style="border: 3px solid #000; border-radius: 12px;" alt="dark flower gif" />
 </p>
 
 <h1 align="center">
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" alt="anime text gif" />
+  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="600" style="border: 2px solid #111; border-radius: 10px;" />
 </p>
 
 ---
@@ -35,5 +35,4 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ximaxik&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ximaxik&show_icons=true&theme=tokyonight&hide
