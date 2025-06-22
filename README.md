@@ -1,6 +1,7 @@
-<!-- Dark flower GIF at the top -->
+<!-- Replacing GIF with static image from Pinterest -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d0/94/17/d09417bf39cf49f30fd392c2697ddd36.gif" width="200" style="border: 3px solid #000; border-radius: 12px;" alt="dark flower gif" />
+  <img src="https://i.pinimg.com/originals/9c/9d/35/9c9d357e5833ac95fe71be4bcac6fd92.jpg" width="200" 
+       style="border: 3px solid #000; border-radius: 12px;" alt="dark flower photo" />
 </p>
 
 <h1 align="center">
