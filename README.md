@@ -1,14 +1,12 @@
-<p align="center">
-  <!-- Верхняя декоративная полоска -->
-  <img src="https://i.imgur.com/4ae0bf.gif" alt="Top Divider" style="max-width: 100%;">
-</p>
+<div style="text-align: center; background-color: #000; padding: 20px;">
 
-<p align="center">
-  <!-- Центральное изображение -->
-  <img src="https://i.pinimg.com/originals/56/29/b6/5629b6cf0b4db1d3c49d64e4456bb9f4.jpg" alt="Main Image" width="500" style="border-radius: 10px; box-shadow: 0 0 20px #000;">
-</p>
+  <!-- Top: b4e2b69f3f05812d5979e797e6df4c72e03c6f27.pnj -->
+  <img src="https://i.imgur.com/c6f27.png" alt="Top Divider" style="max-width: 100%;">
 
-<p align="center">
-  <!-- Нижняя декоративная полоска -->
-  <img src="https://i.imgur.com/c6f27.png" alt="Bottom Divider" style="max-width: 100%;">
-</p>
+  <!-- Middle: https://pin.it/4x6mEvYg3 -->
+  <img src="https://i.pinimg.com/originals/c9/fc/5f/c9fc5f9dd830a9f17ef6e77bdffae0f7.jpg" alt="Main Image" style="max-width: 80%; margin: 20px 0;">
+
+  <!-- Bottom: acec4ad433c2216c355d93469cc66fb5e14ae0bf.gifv -->
+  <img src="https://i.imgur.com/4ae0bf.gif" alt="Bottom Divider" style="max-width: 100%;">
+
+</div>
