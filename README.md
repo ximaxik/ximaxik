@@ -1,4 +1,9 @@
-![black divider](https://raw.githubusercontent.com/zero-craft/example-readme-display/main/assets/divider-text.png)
-![lace divider](https://raw.githubusercontent.com/zero-craft/example-readme-display/main/assets/lace-divider.png)
-![main image](https://i.pinimg.com/originals/f5/38/40/f538403f46f2caa7f91868e0f6f59e0c.jpg)
-![lace divider](https://raw.githubusercontent.com/zero-craft/example-readme-display/main/assets/lace-divider.png)
+<p align="center">
+  <img src="https://64.media.tumblr.com/9c5d005b78f2296a6de232351f11b8e4/tumblr_o6gh2uR5U91slt6ygo1_500.gif" alt="black divider top" />
+</p>
+<p align="center">
+  <img src="https://i.postimg.cc/Kzv6SX3g/your-image.jpg" alt="main image" />
+</p>
+<p align="center">
+  <img src="https://64.media.tumblr.com/9c5d005b78f2296a6de232351f11b8e4/tumblr_o6gh2uR5U91slt6ygo1_500.gif" alt="black divider bottom" />
+</p>
