@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/JsDXb7s.png" alt="black divider by dollywons" />
+  <img src="https://i.imgur.com/nSzkxSp.png" alt="black divider by dollywons" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/pqPPS5O.png" alt="lace divider top" />
+  <img src="https://i.imgur.com/lkmgsyX.png" alt="lace divider top" />
 </p>
 
 <p align="center">
@@ -11,5 +11,4 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/pqPPS5O.png" alt="lace divider bottom" />
-</p>
+  <img src="https://i.imgur.com/lkmgsyX.png" alt="lace divider bottom"
