@@ -4,5 +4,5 @@
   <img src="https://64.media.tumblr.com/f1c908d6b3fd79305733a556bb7ad330/91d09dddd647fc1b-4c/s540x810/1facdeab93e90d3d1a653666cb7f7542ed8cac55.pnj" alt="" />
 </p>
 <p style="text-align: right; margin: 5px 20px 0 0; font-size: 11px;">
-  <a href="https://atabook.org" style="color: #193A3F; text-decoration: none; opacity: 0.7; font-weight: 500;">ata</a>
+  <a href="https://liie.atabook.org/" style="color: #193A3F; text-decoration: none; opacity: 0.7; font-weight: 500;">ata</a>
 </p>
