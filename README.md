@@ -1,22 +1,40 @@
-<!-- ВЕРХНИЙ БЛОК (Текст по центру, бантики по бокам) -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 5px;">
-  <img src="https://tumblr.com" alt="" style="height: 30px; width: auto;" />
-  <span style="font-family: 'Georgia', serif; font-style: italic; font-size: 16px; color: #193A3F;">black dividers by dollywons</span>
-  <img src="https://tumblr.com" alt="" style="height: 30px; width: auto; transform: scaleX(-1);" />
-</div>
-<!-- ЦЕНТРАЛЬНАЯ КАРТИНКА (Кот) -->
-<p style="text-align: center; margin: 0;">
-  <img width="916" height="512" alt="кот" src="https://github.com" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-</p>
-<!-- НИЖНИЙ БЛОК (Усики по бокам, сердечко в центре) -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 5px;">
-  <img src="https://tumblr.com" alt="" style="height: 25px; width: auto;" />
-  <span style="color: #193A3F; font-size: 14px;">•</span>
-  <img src="https://tumblr.com" alt="" style="height: 30px; width: auto;" />
-  <span style="color: #193A3F; font-size: 14px;">•</span>
-  <img src="https://tumblr.com" alt="" style="height: 25px; width: auto; transform: scaleX(-1);" />
-</div>
-<!-- ССЫЛКА ATA -->
-<p style="text-align: right; margin: 5px 20px 0 0; font-size: 11px;">
-  <a href="https://atabook.org" style="color: #193A3F; text-decoration: none; opacity: 0.7; font-weight: 500;">ata</a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto; border-collapse: collapse;">
+  <!-- ВЕРХНИЙ РЯД: Бантик - Текст - Бантик -->
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://tumblr.com" alt="" width="50" style="vertical-align: middle;" />
+    </td>
+    <td align="center" valign="middle" style="padding: 0 15px; font-family: 'Georgia', serif; font-style: italic; font-size: 16px; color: #193A3F; white-space: nowrap;">
+      black dividers by dollywons
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://tumblr.com" alt="" width="50" style="vertical-align: middle;" />
+    </td>
+  </tr>
+  <!-- СРЕДНИЙ РЯД: Картинка с котом -->
+  <tr>
+    <td colspan="3" align="center" style="padding: 10px 0;">
+      <img width="916" height="512" alt="кот" src="https://github.com" style="max-width: 100%; height: auto; display: block;" />
+    </td>
+  </tr>
+  <!-- НИЖНИЙ РЯД: Усики - Точка - Сердечко - Точка - Усики -->
+  <tr>
+    <td colspan="3" align="center" valign="middle">
+      <table border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
+        <tr>
+          <td valign="middle"><img src="https://tumblr.com" alt="" width="40" style="vertical-align: middle;" /></td>
+          <td valign="middle" style="padding: 0 10px; color: #193A3F; font-size: 14px;">•</td>
+          <td valign="middle"><img src="https://tumblr.com" alt="" width="45" style="vertical-align: middle;" /></td>
+          <td valign="middle" style="padding: 0 10px; color: #193A3F; font-size: 14px;">•</td>
+          <td valign="middle"><img src="https://tumblr.com" alt="" width="40" style="vertical-align: middle;" /></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- НИЖНИЙ РЯД: Ссылка ata (прижата вправо) -->
+  <tr>
+    <td colspan="3" align="right" style="padding-top: 5px; font-size: 11px;">
+      <a href="https://atabook.org" style="color: #193A3F; text-decoration: none; opacity: 0.7; font-weight: 500;">ata</a>
+    </td>
+  </tr>
+</table>
